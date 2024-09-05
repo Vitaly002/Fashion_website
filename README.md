@@ -30,7 +30,7 @@ Styling: Implemented using styled-components with responsive design features to 
 SVG Graphics: Custom SVGs with animations to enhance the visual appeal of the website.
 
 ### Key Components
-##### Home: Main landing page integrating core elements of the application.
+#### Home: Main landing page integrating core elements of the application.
 
 CoverVideo: Full-screen video background.
 
@@ -38,9 +38,9 @@ Navbar: Responsive navigation bar.
 
 Logo: Animated logo.
 
-##### Marquee: Dynamic text animation effect with styled components and scroll attributes.
+#### Marquee: Dynamic text animation effect with styled components and scroll attributes.
 
-##### Footer: Includes:
+#### Footer: Includes:
 
 LogoContainer: Displays the logo and studio name.
 
@@ -48,7 +48,7 @@ FooterComponent: Navigation menu with hover effects and responsive design.
 
 Bottom: Copyright information and credits.
 
-##### About: Details the studio's philosophy and offerings.
+#### About: Details the studio's philosophy and offerings.
 
 Left: Text section with responsive design.
 
