@@ -10,7 +10,7 @@ Responsive Layout: Ensures a seamless viewing experience across different device
 
 Animated Elements: Utilizes motion graphics to enhance user engagement and visual appeal.
 
-### Technologies Used
+## Technologies Used
 
 Frontend:
 React,
@@ -21,7 +21,7 @@ GSAP (GreenSock Animation Platform)
 Styling:
 Custom CSS with media queries for responsiveness
 
-### Design Details
+## Design Details
 
 Animation: Utilizes framer-motion for smooth animations and gsap for advanced scroll-triggered animations.
 
