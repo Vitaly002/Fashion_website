@@ -53,3 +53,12 @@ SVG Graphics: Custom SVGs with animations to enhance the visual appeal of the we
 1) Left: Text section with responsive design.
 
 2) Right: Image gallery with varying sizes and scroll speeds.
+
+### Assets
+1) assets/images/: Product images and other visual assets.
+2) assets/svgs/: SVG icons and graphics.
+3) assets/video/: Video files such as Walking Girl.mp4.
+
+### Styles
+1) GlobalStyles.js: Defines global CSS styles including font settings, layout adjustments, and scroll behavior.
+2) themes.js: Contains theme definitions for light and dark modes with color schemes and font sizes.
