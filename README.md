@@ -12,13 +12,13 @@ Animated Elements: Utilizes motion graphics to enhance user engagement and visua
 
 ## Technologies Used
 
-Frontend:
+### Frontend:
 React,
 Styled Components,
 Framer Motion,
 GSAP (GreenSock Animation Platform)
 
-Styling:
+### Styling:
 Custom CSS with media queries for responsiveness
 
 ## Design Details
