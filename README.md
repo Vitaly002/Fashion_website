@@ -6,8 +6,8 @@
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" alt="react" />
-    <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6&color=white" alt="css" />
-    <img src="https://img.shields.io/badge/-Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=00C4CC&color=white" alt="framermotion" />
+    <img src="https://img.shields.io/badge/-CSS-lightblue?style=for-the-badge&logo=css3&logoColor=1572B6&color=lightblue" alt="css" />
+    <img src="https://img.shields.io/badge/-Framer%20Motion-lightcyan?style=for-the-badge&logo=framer&logoColor=00C4CC&color=lightcyan" alt="framermotion" />
   </div>
 
   <h3 align="center">A UI Inspired Fashion Webpage</h3>
